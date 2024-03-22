@@ -275,7 +275,7 @@
     "lodash": "^4.17.21",
     "node-gyp": "^9.3.1",
     "node-loader": "^2.0.0",
-    "octokit": "^2.0.18",
+    "octokit": "^3.1.2",
     "path-browserify": "^1.0.1",
     "prettier": "^2.7.1",
     "raw-loader": "^4.0.2",
